@@ -6,3 +6,6 @@ You could download stock data for different stocks or update the stocks prices. 
 Download stock data on the excel file using this:
 https://stackoverflow.com/questions/32545316/how-to-write-data-to-excel-using-python-for-stock-data-being-pulled-from-yahoo
 (I DID NOT CODE THE ABOVE AND PLEASE CREDIT THEM IF POSSIBLE)
+
+Download the above folder and run the python file (named 'Stock Trading Simulator.py')
+Make sure all the files (inside the folder are always) inside the same folder(same file path).
