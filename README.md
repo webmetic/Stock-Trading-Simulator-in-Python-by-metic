@@ -9,3 +9,8 @@ https://stackoverflow.com/questions/32545316/how-to-write-data-to-excel-using-py
 
 Download the above folder and run the python file (named 'Stock Trading Simulator.py')
 Make sure all the files (inside the folder are always) inside the same folder(same file path).
+
+Display Settings
+Display Resolution: 1920x1080
+Size: 125%
+(sorry these are my default settings)
