@@ -5,10 +5,11 @@ You could download stock data for different stocks or update the stocks prices. 
 
 ![image](https://user-images.githubusercontent.com/74499053/134215255-d8804994-3b99-4dfe-9e86-753b8a9c2759.png)
 
+I have 50 popular stocks in my list and they update every 4 seconds (4 Seconds in Simulation = 1 Day in Real Life). This gives better performance.
+
 Download stock data on the excel file using this:
 https://stackoverflow.com/questions/32545316/how-to-write-data-to-excel-using-python-for-stock-data-being-pulled-from-yahoo
 (I DID NOT CODE THE ABOVE AND PLEASE CREDIT THEM IF POSSIBLE)
-
 
 Download the above folder and run the python file (named 'Stock Trading Simulator.py')
 Make sure all the files (inside the folder are always) inside the same folder(same file path).
