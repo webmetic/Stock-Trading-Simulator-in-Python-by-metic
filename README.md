@@ -19,5 +19,7 @@ Display Resolution: 1920x1080
 Size: 125%
 (sorry these are my default settings)
 
+You can view 50 stock prices update in the first window (top left). You can make purchases in the second one (top right). You can view the performance of a stock in the third window (bottom left) and view your transactions in the fourth one (bottom right). 
+
 Bug Fixes:
 Use `pip install xlrd==1.2.0` to solve the xlrd module issue. 
